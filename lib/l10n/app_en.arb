@@ -1,0 +1,15 @@
+{
+  "title": "Shopping App",
+  "changeTheme": "Change Theme",
+  "changeLanguage": "Change Language",
+  "arabic": "Arabic",
+  "english": "English",
+  "home": "Home",
+  "products": "Products",
+  "cart": "Cart",
+  "profile": "Profile",
+  "Favorite": "Favorite",
+  "Add_to_Cart": "Add to Cart",
+  "Remove_from_Cart": "Remove from Cart"
+}
+

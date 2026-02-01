@@ -1,0 +1,14 @@
+{
+  "title": "تطبيق التسوق",
+  "changeTheme": "تغيير الثيم",
+  "changeLanguage": "تغيير اللغة",
+  "arabic": "عربي",
+  "english": "إنجليزي",
+  "home": "الرئيسية",
+  "products": "المنتجات",
+  "cart": "السلة",
+  "profile": "الملف الشخصي",
+  "Favorite": "المفضلة",
+  "Add_to_Cart": "أضف إلى السلة",
+  "Remove_from_Cart": "إزالة من السلة"
+}
